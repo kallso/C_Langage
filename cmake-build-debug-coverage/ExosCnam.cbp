@@ -17,6 +17,158 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="ExosCnam15">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam15"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam15/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam15/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam14">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam14"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam14/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam14/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam13">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam13"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam13/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam13/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam12">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam12"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam12/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam12/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="ExosCnam7">
 				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam7" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
@@ -50,6 +202,64 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam7/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam5">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam5"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam5/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam5/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
@@ -207,6 +417,44 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="ExosCnam16">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam16"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam16/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam16/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="ExosCnam4">
 				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam4" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
@@ -245,64 +493,6 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ExosCnam5">
-				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam5"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ExosCnam5/fast">
-				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam5/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="ExosCnam3">
 				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam3" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
@@ -336,44 +526,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam3/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ExosCnam8">
-				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam8" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam8"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ExosCnam8/fast">
-				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam8" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam8/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
@@ -493,12 +645,106 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="ExosCnam8">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam8"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam8/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam8/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam11">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam11"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ExosCnam11/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage/ExosCnam11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 ExosCnam11/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/NSY103\ -\ Programmation\ C/ExosCnam/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo1.c">
 			<Option target="ExosCnam1"/>
 		</Unit>
 		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo10.c">
 			<Option target="ExosCnam10"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo11.c">
+			<Option target="ExosCnam11"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo12.c">
+			<Option target="ExosCnam12"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo13.c">
+			<Option target="ExosCnam13"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo14.c">
+			<Option target="ExosCnam14"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo15.c">
+			<Option target="ExosCnam15"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo16.c">
+			<Option target="ExosCnam16"/>
 		</Unit>
 		<Unit filename="/mnt/d/CNAM I1/Licence I1/NSY103 - Programmation C/ExosCnam/exo2.c">
 			<Option target="ExosCnam2"/>

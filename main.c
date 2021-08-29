@@ -71,15 +71,20 @@ int main(void) {
     char charExemple;
     short shortExemple;
     int intExemple;
+    long longExemple;
     _Bool boolExemple;
     printf("size of a char : %zu \n", sizeof charExemple);
     printf("size of a short : %zu \n", sizeof shortExemple);
     printf("size of an int : %zu \n", sizeof intExemple);
+    printf("size of an long : %zu \n", sizeof longExemple);
     printf("size of a bool : %zu \n", sizeof boolExemple);
     printf("size of a size_t : %zu \n", sizeof(size_t));
 
     // Arrays
     int ai[4] = {1, 2, 3, 4};
+    printf("LES SIZE OF\n");
+    printf("size of ai %lu \n", sizeof ai);
+    printf("size of ai[0] %lu \n", sizeof ai[0]);
     for (int i = 0; i < (sizeof ai / sizeof ai[0]); ++i) {
         printf("%i \n", ai[i]);
     }
