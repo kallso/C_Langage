@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/ExosCnam11.dir/exoMemoire.c.o  -o ExosCnam11 

@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/ExosCnam5.dir/exo5.c.o  -o ExosCnam5 
+/usr/bin/cc -g CMakeFiles/ExosCnam5.dir/exo5.c.o -o ExosCnam5 

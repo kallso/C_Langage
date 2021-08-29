@@ -1,0 +1,1 @@
+/usr/bin/cc --coverage -g CMakeFiles/ExosCnam10.dir/exo10.c.o -o ExosCnam10 

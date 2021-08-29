@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/ExosCnam9.dir/exo9.c.o  -o ExosCnam9 
+/usr/bin/cc -g CMakeFiles/ExosCnam9.dir/exo9.c.o -o ExosCnam9 

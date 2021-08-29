@@ -1,0 +1,1 @@
+/usr/bin/cc --coverage -g CMakeFiles/ExosCnam6.dir/exo6.c.o -o ExosCnam6 
